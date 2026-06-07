@@ -1,7 +1,0 @@
-streamlit
-pandas
-requests
-pydeck
-openrouteservice
-python-dotenv
-geopy
